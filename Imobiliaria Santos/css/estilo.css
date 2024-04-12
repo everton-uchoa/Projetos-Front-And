@@ -1,0 +1,117 @@
+body {
+    margin: 0;
+    font-family: Tahoma;
+}
+.secao{
+    padding-top: 30px auto;
+    text-align: center;
+}
+p{
+    margin: 10px auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    height: 28px;
+}
+.inicio{
+    background-color: #afddfb;
+}
+.logo{
+    width: 150px;
+}
+.inicio p{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+.inicio a{
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: solid 2px #1d1d1d;
+    text-decoration: none;
+    margin: 0px 10px;
+}
+.banner{
+    margin-top: 50px;
+    padding-top: 0px;
+}
+span{
+    font-weight: bold;
+}
+.sobre h1{
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+.sobre h2{
+    color: #1c81c0
+}
+.imagem-padrao{
+    width: 450px;
+}
+.texto-azul{
+    color: #1d80c1;
+    font-weight: bold;
+}
+.servicos{
+    background-color: #1d80c1;
+    margin-top: 80px;
+    padding: 25px 0px;
+}
+.servicos h3{
+    color: #ffffff;
+}
+.padrao-subtitulo{
+    font-size: 28px;
+    line-height: 42px;
+}
+.servicos p{
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+.primeiro-paragrafo{
+    padding-bottom: 80px;
+}
+.texto-amarelo{
+    color: #fff81b;
+}
+.servicos ul{
+    margin: 40px auto;
+    width: 135px;
+    color: #ffffff;
+    height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+.contato{
+    background-color: #1d80c1
+}
+.contato h3{
+    color: #ffffff;
+}
+.mensagem{
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.contato ul{
+    margin: 40px auto;
+    width: 210px;
+}
+.contato li{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+iframe{
+    width: 700px;
+    height: 350px;
+}
